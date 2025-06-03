@@ -70,4 +70,11 @@ This repository shows how to:
 
 ---
 
-## 🏗️ Project Structure
+## 👥 Contributors
+<!-- Add yourself in alphabetical order -->
+| Name | GitHub | Role / Focus |
+|------|--------|--------------|
+| **Dewi Kadek Pratiwi Sukmadewi & Maico Gerrits** |  Data wrangling & EDA |
+| **Semih Alper Dundar** | Model building & Hyperparameter Optimization & Group Coordination |
+| **Maico Gerrits** | Visual design |
+| **Sofia Yeung & Dewi Kadek Pratiwi Sukmadewi** | Reporting & Discussion |
