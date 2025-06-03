@@ -72,8 +72,8 @@ This repository shows how to:
 
 ## 👥 Contributors
 <!-- Add yourself in alphabetical order -->
-| Name | GitHub | Role / Focus |
-|------|--------|--------------|
+| Name | Role / Focus |
+|------|--------------|
 | **Dewi Kadek Pratiwi Sukmadewi & Maico Gerrits** |  Data wrangling & EDA |
 | **Semih Alper Dundar** | Model building & Hyperparameter Optimization & Group Coordination |
 | **Maico Gerrits** | Visual design |
